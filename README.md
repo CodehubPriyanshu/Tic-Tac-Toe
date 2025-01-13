@@ -1,4 +1,5 @@
 **Tic Tac Toe Application with React**
+
 This is a simple Tic Tac Toe application built using React and configured with Vite for a fast and efficient development experience. The application's styles are implemented using SCSS, providing a clean and modular approach to styling.
 
 **Features**
